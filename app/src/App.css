@@ -1,0 +1,30 @@
+.app {
+    display: inline-flex;
+    width: 100%;
+}
+
+.nav{
+    text-align: left;
+    background: linear-gradient(to bottom, PowderBlue, white);
+    width: 20vh;
+    height: 100vh;
+    list-style: none;
+}
+
+.nav ul{
+    list-style: none;
+}
+
+.link{
+    text-decoration: none;
+    color: DarkSlateGray;
+    font-weight: bold;    
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a.active{
+    color: white;
+}

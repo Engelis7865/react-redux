@@ -1,0 +1,30 @@
+.login{
+    width: 330px;
+    height: 150px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -125px 0 0 -125px;
+    background-color: WhiteSmoke;
+    border: 1px solid LightGrey;
+    box-shadow: 0 0 5px Gainsboro;
+    border-radius: 10px;
+}
+
+.login input{
+   width: 90%;
+   height: 30px;
+    margin: 8px;
+    border-radius: 5px;
+}
+
+.clickLog{
+    background: SteelBlue;
+    border: 1px solid grey;
+    margin: 10px;
+    width: 90%;
+    height: 25px;
+    color: white;
+    box-shadow: 0 0 3px Gainsboro;
+    border-radius: 5px;
+}

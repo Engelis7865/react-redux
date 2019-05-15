@@ -1,0 +1,39 @@
+.headTweets{
+    height: 5vh;
+    background: linear-gradient(to right, PowderBlue, white);
+    text-align: right;
+    padding: 10px;
+}
+
+.contentTweets{
+    width: 90vw;
+}
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 90vw; 
+    margin: auto;
+    text-align: center;
+}
+
+tr, td, th {
+    border: 1px solid black;
+    min-width: 200px;
+}
+
+.button {
+    margin-right: 30px;
+    width: 150px;
+    background: SteelBlue;
+    border: 1px solid grey;
+    box-shadow: 2px 2px 5px Gainsboro;
+    color: white;
+    border-radius: 5px;
+}
+
+.tweetText{
+    background-color: AliceBlue;
+}
+
+

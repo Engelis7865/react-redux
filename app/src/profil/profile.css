@@ -1,0 +1,13 @@
+.contentProfile{
+    width: 90vw;
+}
+.content{
+    margin: 10px;
+    background-color: WhiteSmoke;
+    border: 1px solid LightGrey;
+    box-shadow: 0 0 5px Gainsboro;
+    border-radius: 10px;
+}
+.content p{
+    margin: 5px;
+}
